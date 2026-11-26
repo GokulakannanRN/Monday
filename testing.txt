@@ -1,2 +1,2 @@
 Hello,
-This is AWS & Devops class.
+This is Github class.
